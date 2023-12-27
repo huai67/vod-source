@@ -1,11 +1,15 @@
 [
     {
-        "name": "海外看",
-        "api": "https://haiwaikan.com/api.php/provide/vod/",
+        "name": "115",
+        "api": "https://155api.com/api.php/provide/vod/?ac=list",
         "note": "需要代理"
     },
     {
-        "name": "极速资源",
-        "api": "https://jszyapi.com/api.php/provide/vod/"
-    }
+        "name": "15",
+        "api": "https://155api.com/api.php/provide/vod/"
+    },
+    {
+        "name": "森林",
+        "api": "https://slapibf.com/api.php/provide/vod/"
+    },
 ]
